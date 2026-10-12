@@ -1,0 +1,13 @@
+# LICENSE — Proprietary (All rights reserved)
+
+Copyright (c) 2026 PanTajger
+
+Wszystkie prawa zastrzeżone.
+
+Niniejsze repozytorium zawiera jedynie materiały demonstracyjne i dokumentację projektu "Prymus Procent". Wszelkie elementy produkcyjne projektu — w szczególności modele, skrypty treningowe, wagi modeli, prywatne API, bazy danych oraz narzędzia przetwarzające — są własnością właściciela projektu i nie są częścią tego repozytorium.
+
+Zabrania się w całości i w części kopiowania, rozpowszechniania, modyfikowania, tworzenia dzieł zależnych, publikowania, sublicencjonowania i używania w celach komercyjnych jakiejkolwiek części kodu, dokumentacji lub materiałów zawartych w repozytorium bez uprzedniej pisemnej zgody właściciela projektu.
+
+Aby uzyskać dostęp do prywatnych komponentów projektu (np. modeli, treningowych skryptów lub produkcyjnych endpointów), skontaktuj się z właścicielem i podpisz obowiązującą umowę (NDA/licencja). Szczegółowe informacje znajdują się w ACCESS_REQUEST.md.
+
+Informacja prawna: ten dokument ma charakter informacyjny. Jeżeli potrzebujesz formalnej umowy prawnej, skonsultuj się z prawnikiem. Autor nie bierze odpowiedzialności za użycie powyższych warunków bez uprzedniej weryfikacji prawnej.

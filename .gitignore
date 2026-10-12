@@ -1,0 +1,9 @@
+# Demo i repozytorium — ignorowane pliki
+.env
+__pycache__/
+.venv/
+venv/
+*.pyc
+*.pyo
+.DS_Store
+demo/results.json
