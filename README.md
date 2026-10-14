@@ -1,6 +1,4 @@
-# README — Demo (dodatek)
-
-Dodano gałąź demo/add-fastapi-demo zawierającą materiały demonstracyjne i instrukcje.
+# README — Demo
 
 Ważne:
 - Repozytorium publiczne zawiera jedynie dokumentację i materiały show‑ready.
